@@ -1,0 +1,1 @@
+# diploca_rust_version
